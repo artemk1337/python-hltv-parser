@@ -1,4 +1,7 @@
 # The unofficial HLTV Python API
+[![GitHub issues](https://img.shields.io/github/issues/artemkush1/hltv_parser)](https://github.com/artemkush1/hltv_parser/issues)
+[![GitHub stars](https://img.shields.io/github/stars/artemkush1/hltv_parser)](https://github.com/artemkush1/hltv_parser/stargazers)
+[![GitHub license](https://img.shields.io/github/license/artemkush1/hltv_parser)](https://github.com/artemkush1/hltv_parser/blob/master/LICENSE)
 
 ## INSTALLATION
 
