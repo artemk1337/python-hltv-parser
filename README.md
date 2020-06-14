@@ -1,7 +1,10 @@
+<p align="right">
+<a href="https://github.com/artemkush1/hltv_parser/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/artemkush1/hltv_parser"></a>
+<a href="https://github.com/artemkush1/hltv_parser/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/artemkush1/hltv_parser"></a>
+<a href="https://github.com/artemkush1/hltv_parser/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/artemkush1/hltv_parser"></a>
+</p> 
+
 # The unofficial HLTV Python API
-[![GitHub issues](https://img.shields.io/github/issues/artemkush1/hltv_parser)](https://github.com/artemkush1/hltv_parser/issues)
-[![GitHub stars](https://img.shields.io/github/stars/artemkush1/hltv_parser)](https://github.com/artemkush1/hltv_parser/stargazers)
-[![GitHub license](https://img.shields.io/github/license/artemkush1/hltv_parser)](https://github.com/artemkush1/hltv_parser/blob/master/LICENSE)
 
 ## INSTALLATION
 
