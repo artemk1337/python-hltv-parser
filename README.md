@@ -9,14 +9,18 @@
 ## INSTALLATION
 
 ```
->>> pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 OR
 ```
->>> pip3 install requests urllib3 datetime bs4 numpy pandas
+$ pip3 install requests urllib3 datetime bs4 numpy pandas
 ```
 
 ## USAGE
+
+```
+from hltv import [class or function name]
+```
 
 ### Parse matches
 
