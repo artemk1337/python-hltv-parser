@@ -60,7 +60,7 @@ from hltv import [class or function name]
 > - *maps_name* - map names
 > - *score1_maps* - score on each map of team 1
 > - *score2_maps* - score on each map of team 2
-> - *picks* - peaks of teams; 1 - the first team, -1 - the second team; if the array is None, then the maps are [2
+> - *picks* - peaks of teams; 1 - the first team, -1 - the second team; if the array is None, then the maps are < 2
 > - *date* - match date
 > - *total_maps* - in total it was planned to play cards (usually 1, 3 or 5)
 > - *maps_played* - how many cards were played as a result
