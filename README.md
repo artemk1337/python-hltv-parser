@@ -1,6 +1,5 @@
 <p align="right">
-<a href="https://github.com/artemkush1/hltv_parser/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/artemkush1/hltv_parser"></a>
-<a href="https://github.com/artemkush1/hltv_parser/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/artemkush1/hltv_parser"></a>
+![GitHub followers](https://img.shields.io/github/followers/artemk1337?label=Follow&style=social)
 </p> 
 
 # The unofficial HLTV Python API
