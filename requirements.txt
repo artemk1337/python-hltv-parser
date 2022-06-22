@@ -2,5 +2,5 @@ requests==2.23.0
 urllib3==1.25.9
 datetime==2.11.1
 bs4==0.0.1
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.4
